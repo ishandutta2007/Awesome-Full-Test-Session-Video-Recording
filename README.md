@@ -15,20 +15,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global dedicated screen recording and async video capture market is estimated at **$2.5B to $2.95B** in 2025–2026 (expanding beyond $12B when bundled into broader enterprise video collaboration suites). The sector is **moderately fragmented**: while entry-level utility creation is highly fragmented with numerous niche browser extensions and lightweight recorders, enterprise market share and revenue are increasingly concentrated among major platforms (e.g., Loom/Atlassian) and bundled unified communications giants (Zoom Clips, Slack, Microsoft Teams).
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Loom](https://www.loom.com/)** | **The async video messaging standard.** Record screen and camera, get instant shareable links, and let viewers comment on the timeline. **Free Starter plan: 25 videos per person, 5-minute recording limit** . **Business plan: $15/user/month annual ($18 monthly)** adds unlimited videos, no time limits, 4K recording, custom branding, and engagement analytics . | Business: **$15/user/month** (annual); Free: $0 | **Free**: 25 videos, 5-minute limit, screen & cam bubble recording . **No trial** for paid plans . |
-| **[Vidyard](https://www.vidyard.com/)** | Video messaging and hosting platform with screen recording, analytics, and integrations. Positioned for sales and marketing teams. | Quote-only | Free plan available with limits |
-| **[Zight (CloudApp)](https://zight.com/)** | Screen recording, screenshot, and GIF creation with instant sharing. Positioned for support and QA bug reports. | Quote-only | Free tier available |
-| **[Screencastify](https://www.screencastify.com/)** | Chrome extension for screen recording and video editing. Popular in education and training. | Free tier available; paid plans via sales | **Free**: limited recording length and exports |
-| **[Camtasia](https://www.techsmith.com/)** | Professional screen recorder and video editor (TechSmith). Positioned for polished tutorial and training video production. | Quote-only (perpetual or subscription) | Free trial available |
+| Product | Company Size (Valuation / Revenue) | Starting Paid Pricing | Free Tier / Trial Limits | Description |
+|---------|-----------------------------------|-----------------------|--------------------------|-------------|
+| **[Loom](https://www.loom.com/)** | **$975M valuation** (acquired by Atlassian; ~$50M ARR at exit) | **$12.50/user/month** (annual) or **$15/user/month** (monthly) | **Free Forever**: 25 videos/creator storage limit, up to 5 minutes per recording, screen + camera bubble recording | **The async video messaging standard.** Record screen and camera, get instant shareable links, and let viewers comment on the timeline. Business plan unlocks unlimited videos, no duration limits, and 4K recording. |
+| **[Camtasia](https://www.techsmith.com/)** | **~$65M ARR** (TechSmith parent company; estimated ~$260M–$500M valuation) | **$179.88/year** (~$14.99/month, Essentials plan) or **$39.00/year** (Starter plan) | **Indefinite Free Trial** (no expiration date, but all exported videos include a watermark; companion Snagit has a 15-day trial, Audiate has a 7-day trial) | **Professional screen recorder and video editor.** Industry standard for high-polish training, tutorial, and documentation workflows with multitrack editing, cursor effects, and audio tools. |
+| **[Vidyard](https://www.vidyard.com/)** | **~$35M–$45M ARR** (~$91M venture/debt funding raised) | **$59/user/month** (billed annually) or **$89/user/month** (monthly, Starter plan) | **Free Forever**: 5 videos per month, up to 30 minutes per recording, basic analytics | **Video messaging and hosting platform.** Tailored for sales outreach, marketing video distribution, and customer success teams with CRM integrations and viewer tracking. |
+| **[Zight (CloudApp)](https://zight.com/)** | **~$5M–$8M ARR** (~$21M venture funding raised) | **$9.95/user/month** (billed annually, Create plan) | **Free Forever**: 50 captures maximum workspace retention, up to 5 minutes per video recording, 15-second max GIF creation, 25 MB upload cap | **Visual communication and capture suite.** Fast screen recording, screenshot capture, and GIF creation designed for support, QA bug reports, and quick async team updates. |
+| **[Screencastify](https://www.screencastify.com/)** | **~$3M–$5M ARR** (Seed/Series A venture-backed) | **$7/user/month** (billed annually, Starter plan) | **Free Forever**: 10 videos maximum storage in library, up to 30 minutes per recording, 1080p export, up to 5 collaborator seats | **Lightweight Chrome-based screen recorder.** Seamless Google Drive integration, popular in education, training, and fast browser-based bug filing with drawing tools and trims. |
 
 ## Open-Source GitHub Projects
 
