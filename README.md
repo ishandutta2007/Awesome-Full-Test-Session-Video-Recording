@@ -1,6 +1,6 @@
 # Awesome-Full-Test-Session-Video-Recording
 
-# Top Full Test Session Video Recording Ecosystem
+## Top Full Test Session Video Recording Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Async Video Messaging, Screen Capture & Self-Hosted Recording Infrastructure*  
