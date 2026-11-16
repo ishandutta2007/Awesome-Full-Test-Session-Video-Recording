@@ -56,9 +56,9 @@ The global dedicated screen recording and async video capture market is estimate
 
 ## 💻 Open-Source Video Recording GitHub Projects
 
-Sorted descending by GitHub star count ⭐. All open-source repositories listed below allow full test session video capture, local processing, or self-hosted sharing without per-user SaaS lock-in.
+Sorted descending by GitHub Stars_Count ⭐. All open-source repositories listed below allow full test session video capture, local processing, or self-hosted sharing without per-user SaaS lock-in.
 
-| Project | GitHub Stars | License | Primary Tech Stack | Description |
+| Project | GitHub_Stars | License | Primary Tech Stack | Description |
 |:--------|:------------:|:-------:|:-------------------|:------------|
 | **[OBS Studio](https://github.com/obsproject/obs-studio)** | [![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers) | GPL-2.0 | C, C++ | **The universal open-source standard for high-performance screen recording and live streaming.** Cross-platform (Windows, macOS, Linux). Real-time video/audio capturing, scene composition, unlimited inputs, noise gates, VST plugins, hardware acceleration, and Lua/Python scripting. Perfect for high-fidelity multi-source test session evidence. |
 | **[ShareX](https://github.com/ShareX/ShareX)** | [![Stars](https://img.shields.io/github/stars/ShareX/ShareX?style=social&color=white)](https://github.com/ShareX/ShareX/stargazers) | GPL-3.0 | C# (.NET) | **Over 18 years of active development for Windows power users.** Captures full screen, active windows, or custom rectangles into MP4/GIF. Includes full annotation, OCR, automated post-capture uploading to 80+ destinations, and configurable hotkeys. Ideal for rapid QA defect reproduction. |
@@ -81,7 +81,7 @@ Contributions, project suggestions, and documentation enhancements are warmly we
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-recorder`.
 3. 📝 Add your entry to the appropriate table following the existing format:
-   - Ensure open-source projects include star badges linked to stargazers and correct license info.
+   - Ensure open-source projects include Stars_Badges linked to stargazers and correct license info.
    - For SaaS products, include transparent pricing and specific free tier limits.
 4. 🚀 Push your branch and open a Pull Request with a short summary of the addition.
 
@@ -120,3 +120,12 @@ If this curated repository saved you time, helped your QA team troubleshoot test
 <p align="center">
   <b>Built with ❤️ for QA engineers, developers, and teams building async video communication infrastructure.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Full-Test-Session-Video-Recording&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Full-Test-Session-Video-Recording_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Full-Test-Session-Video-Recording_growth.svg">
+  </picture>
+</a>
